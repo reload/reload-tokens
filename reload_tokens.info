@@ -1,0 +1,6 @@
+; $Id:$
+name = Reload - Tokens
+description = Provides specific tokens
+core = 6.x
+package = Reload! A/S
+dependencies[] = token
